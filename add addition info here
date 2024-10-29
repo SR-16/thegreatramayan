@@ -1,4 +1,5 @@
-int a =5
-int b=6
+int a =15
+int b=56
 sum = a+b
 print(sum)
+print(a-b)
