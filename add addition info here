@@ -3,3 +3,5 @@ int b=56
 sum = a+b
 print(sum)
 print(a-b)
+print("addition")
+print(a+b)
